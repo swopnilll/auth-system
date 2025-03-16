@@ -4,5 +4,5 @@ This document contains notes on designing an authentication and authorization sy
 
 # Server Side
 
-[Approach 1](notes/serverside/basic-auth-system/first-approach.md)
-[Approach 2](notes/serverside/basic-auth-system/first-approach.md)
+1. [Approach 1](notes/serverside/basic-auth-system/first-approach.md)
+2. [Approach 2](notes/serverside/basic-auth-system/second-approach.md)
