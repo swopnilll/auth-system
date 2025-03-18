@@ -14,3 +14,10 @@ This document contains notes on designing an authentication and authorization sy
 2. [No Third-Party Authentication](notes/serverside/basic-auth-system/issues/no-third-party-auth.md)
 3. [Re-authentication on Multiple Services](notes/serverside/basic-auth-system/issues/auth-multiple-services.md)
 4. [No Standardized Identity Management (Security Risk)](notes/serverside/basic-auth-system/issues/standard-id-management.md)
+
+5. [Approach 4](notes/serverside/robust-auth-system/OAuth2OpenIDConnect.md)
+
+# Frontend
+
+1. [Same Origin Policy](notes/clientside/Same-Origin-Policy.md)
+2. [CSRF Issue](notes/clientside/csrf-issue-http-only-cookie.md)
